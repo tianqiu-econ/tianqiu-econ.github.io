@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tianqiu-econ.github.io/sitemap.xml
